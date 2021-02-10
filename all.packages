@@ -1,7 +1,7 @@
 Package: com.QiaoweidE.MaskIcons
 Architecture: iphoneos-arm
 Version: 1.5
-Section: Tweaks
+Section: Mask icon
 Maintainer: QiaoweidE
 Depends: mobilesubstrate
 Filename: ./debfiles/com.QiaoweidE.MaskIcons_1.5_iphoneos-arm.deb
