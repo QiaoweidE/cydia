@@ -1,4 +1,7 @@
-                                 # Hello .........
+●▬▬▬▬๑۩۩๑▬▬▬▬▬●                                                                                                                                                    ●▬▬▬▬๑۩۩๑▬▬▬▬▬●
+                                
+                                
+                                # Hello .........
                                                                         
              # Cydia Repo hello
          
@@ -7,10 +10,13 @@
                                                         # Đây là repo của QiaoweidE ngoan nhất nhà, đẹp trai nhất xóm
                          
                          
-                                                                                # Add this url to Cydia sources to use my repository:
+                                                                                # Add this url to Cydia sources to use my repository: 
                                                      
 
-
+_/﹋\_
+(҂`_´)
+<,︻╦╤─ ҉ – –
+_/﹋\_
 
 ## [Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://QiaoweidE.github.io/cydia/) [https://Qiaoweide.github.io/cydia/](https://QiaoweidE.github.io)
 
@@ -19,3 +25,4 @@
 
 
 
+●▬▬▬▬๑۩۩๑▬▬▬▬▬●                                                                                                                                                    ●▬▬▬▬๑۩۩๑▬▬▬▬▬●
