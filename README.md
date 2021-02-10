@@ -1,12 +1,12 @@
-                                                                       # Hello .........
+                      # Hello .........
                                                                         
-                                                                     # Cydia Repo
+         # Cydia Repo
 
-                                                                    Cydia repository
+      Cydia repository
 
-                                                    Add this url to Cydia sources to use my repository:
+             Add this url to Cydia sources to use my repository:
                                                       
-                                                      ```centerhttps://QiaoweidE.github.io/cydia```
+               ``` center https://QiaoweidE.github.io/cydia ```
    
    
    
