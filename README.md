@@ -1,11 +1,14 @@
-                      # Hello .........
+                                 # Hello .........
                                                                         
-         # Cydia Repo
+             # Cydia Repo hello
          
-                    Cydia repository
-
-                          Add this url to Cydia sources to use my repository:
-                                                      Đây là repo của QiaoweidE ngoan nhất nhà, đẹp trai nhất xóm
+                                   # Cydia repository heloo
+                         
+                                                        # Đây là repo của QiaoweidE ngoan nhất nhà, đẹp trai nhất xóm
+                         
+                         
+                                                                                # Add this url to Cydia sources to use my repository:
+                                                     
 
 
 
