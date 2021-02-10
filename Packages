@@ -1,0 +1,17 @@
+Package: com.QiaoweidE.MaskIcons
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: QiaoweidE
+Depends: mobilesubstrate
+Filename: ./debfiles/com.QiaoweidE.MaskIcons_1.5_iphoneos-arm.deb
+Size: 1612873704
+MD5sum: cddce178e452503b06242eb2b5522aaf
+SHA1: 
+SHA256: 
+SHA512: 
+Description: mask cho icon ios
+Name: MaskIcons collect
+Author: QiaoweidE
+Depiction: https://qiaoweide.github.io/cydia/description.html?id=com.QiaoweidE.MaskIcons
+
