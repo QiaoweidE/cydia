@@ -6,7 +6,9 @@
 
              Add this url to Cydia sources to use my repository:
                                                       
-               ``` center https://QiaoweidE.github.io/cydia ```
+               ```center
+               https://QiaoweidE.github.io/cydia
+               ```
    
    
    
