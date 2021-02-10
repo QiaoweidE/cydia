@@ -33,7 +33,7 @@ function loadPackageInfo() {
 	var form_url = current_url_path+"/packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
-		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://repok2d.github.io/&package="+urlSelfParts[1]);
+		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://qiaoweide.github.io/cydia//&package="+urlSelfParts[1]);
 	}
 	$.ajax({
 		url: form_url,
