@@ -1,7 +1,7 @@
 ## QiaoweidE Screenshots
 
 ### Main window and preferences:
-![Main window](readme.png)
+![Main window](Maskicon.png)
 
 ### Using drag-and-drop to select files:
 ![Drag and drop files](drag-and-drop-files.png)
