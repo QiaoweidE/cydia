@@ -1,6 +1,37 @@
 <!DOCTYPE html>
 <html lang="vi">
-<head>
+<center><div class="wrapper"><h1><a href="/">QiaoweidE REPO</a></h1></div></center>
+<center><h2 role="header">THEME WEB</h2><center>
+				<a onclick="toogleTheme();" role="button">
+				<p>Light or Dark</p>
+				</a>
+				<style>
+.goog-te-banner-frame.skiptranslate { display: none !important; }
+body { top: 0px !important; }
+.goog-logo-link { display:none !important; }
+.goog-te-gadget{ color: transparent !important; }
+</style>
+<center><div id="google_translate_element"></div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript">
+      function googleTranslateElementInit() {
+          new google.translate.TranslateElement({ pageLanguage: "en" }, "google_translate_element");
+      };
+
+      $(function () {
+          $(".loadMore").click(function () {
+              $("<p/>", {
+                  text: "This is some injected text that will not be translated."
+              }).appendTo($(".destination"));
+          });
+          $.getScript("//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit");
+      });
+      </script>
+</center>
+</hr>
+	
+	
+	<head>
 	<title>QiaoweidE</title>
 	<noscript>
 		<link rel="stylesheet" href="ios7.min.css?_=f" type="text/css" />
@@ -100,36 +131,7 @@
 				</a>
 			</li>
 		</ul>
-				<center><h2 role="header">THEME WEB</h2><center>
-				<a onclick="toogleTheme();" role="button">
-				<p>Light or Dark</p>
-				</a>
-				<style>
-.goog-te-banner-frame.skiptranslate { display: none !important; }
-body { top: 0px !important; }
-.goog-logo-link { display:none !important; }
-.goog-te-gadget{ color: transparent !important; }
-</style>
-<center><div id="google_translate_element"></div>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script type="text/javascript">
-      function googleTranslateElementInit() {
-          new google.translate.TranslateElement({ pageLanguage: "en" }, "google_translate_element");
-      };
-
-      $(function () {
-          $(".loadMore").click(function () {
-              $("<p/>", {
-                  text: "This is some injected text that will not be translated."
-              }).appendTo($(".destination"));
-          });
-          $.getScript("//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit");
-      });
-      </script>
-</center>
-</hr>
-			<center><div class="wrapper"><h1><a href="/">QiaoweidE REPO</a></h1></div></center>
-
+			
 <script>
 
 <!–
