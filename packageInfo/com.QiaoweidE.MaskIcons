@@ -4,16 +4,6 @@
 	"desc_long": "tải và cài đặt và dùng snow để kích hoạt lựa chọn tùy thích có sẵn.<br><br>Không có thêm tùy chọn khác để cấu hình.",
 	"compatitle": "iOS 11, 12, 13, and 14~14.4",
 	"changelog": "<strong>1.5</strong><br>+ Tương thích các máy và ios.<br><strong>1.3.1</strong><br>+ Support iOS 12, 13, 14~14.4.<br>+ Support arm64e</strong><br>+ Initial Release.<br>",
-	"screenshot": "<a target="_blank" href="https://github.com/QiaoweidE/cydia/blob/main/screenshot/Maskicon.png"><img src="/main/screenshot/Maskicon.png" />",
+	"screenshot": "<a target="_blank" href="https://github.com/QiaoweidE/cydia/blob/main/screenshot/Maskicon.png"><img src="/main/screenshot/Maskicon.png"
 	"open": true,
 }
-
-
-</a>
-</li>
-<li>
-<a target="_blank" href="https://mainrepo.org//image/boxy45.png">
-<img src="/image/boxy45.png" />
-</a>
-</li>
-<li>
