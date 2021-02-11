@@ -4,8 +4,8 @@
 ![Main window](Maskicon.png)
 
 ### Using drag-and-drop to select files:
-![Drag and drop files](drag-and-drop-files.png)
-![File list](file-list.png)
+![Drag and drop files](Maskicon.png)
+![File list](Maskicon.png)
 
 ---
-Screenshots by [QiaoweidE](https://github.com/QiaoweidE), issue [#1]. (https://github.com/QiaoweidE/cydia/edit/main/screenshot)
+Screenshots by [QiaoweidE](https://github.com/QiaoweidE), issue [#1]
