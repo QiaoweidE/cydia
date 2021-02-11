@@ -8,4 +8,4 @@
 ![File list](file-list.png)
 
 ---
-Screenshots by [QiaoweidE](https://github.com/QiaoweidE), issue [#1].(https://github.com/QiaoweidE/cydia/edit/main/screenshot)
+Screenshots by [QiaoweidE](https://github.com/QiaoweidE), issue [#1]. (https://github.com/QiaoweidE/cydia/edit/main/screenshot)
