@@ -1,0 +1,11 @@
+Origin: QiaoweidE REPO
+Label: QiaoweidE
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: QiaoweidE Tweaks
+MD5Sum:
+ 6153C02E0408B09EDC8A9A352905D278898ADC35 Packages
+ 1DC3F290BB3CD1DA152221266F101843DD9F7FB9 Packages.bz2
