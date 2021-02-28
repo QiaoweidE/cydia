@@ -1,0 +1,17 @@
+Package: com.QiaoweidE.Maskicons
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Mask icon
+Maintainer: weidevn
+Depends: mobilesubstrate
+Filename: ./debfiles/com.QiaoweidE.Maskicons_1.5.1_iphoneos-arm.deb
+Size: 1733906
+MD5 Checksum: 614496CCB1E654C2DDB1D2714C1D7AE3
+SHA-1 Checksum: 6153C02E0408B09EDC8A9A352905D278898ADC35
+SHA-256 Checksum: F2DE611D508E35655B44B95E34EF31F703259513FA7A2D177D90B88C63F9EC7A
+SHA-512 Checksum: 2D9670B0DC3CC2307EFA012850731FE710C84E95E57A05D051641D438FB9FDEFB4A0406E1967B9A0CA1E276FC25352E52A5DAC8FC64CEBB6D334AC95833A58C6
+Homepage: http://twitter.com/weidevn
+Description: mask cho icon ios snowbroad
+Name: MaskIcons collect
+Author: QiaoweidE
+Depiction: https://qiaoweide.github.io/cydia/description.html?id=com.QiaoweidE.Maskicons
